@@ -1,0 +1,1 @@
+{"Simulator Target Bundle":"com.example.notifrepro","aps":{"alert":{"title":"FCM docs example","body":"body is a JSON string"}},"gcm.message_id":"1700000000000002","body":"{\"action\":\"NAVIGATE_WEBVIEW\",\"clubId\":\"42\"}"}

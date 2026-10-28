@@ -1,0 +1,1 @@
+{"Simulator Target Bundle":"com.example.notifrepro","aps":{"alert":{"title":"FCM direct","body":"custom keys at top level"}},"gcm.message_id":"1700000000000001","google.c.a.e":"1","google.c.sender.id":"1234567890","action":"NAVIGATE_WEBVIEW","clubId":"42","path":"/webview/clubDetail/42"}

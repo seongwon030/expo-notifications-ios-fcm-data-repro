@@ -1,0 +1,1 @@
+{"Simulator Target Bundle":"com.example.notifrepro","aps":{"alert":{"title":"Expo push shape","body":"data nested under body"}},"experienceId":"@x/y","scopeKey":"@x/y","body":{"action":"NAVIGATE_WEBVIEW","clubId":"42","path":"/webview/clubDetail/42"}}
